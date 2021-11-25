@@ -2,7 +2,7 @@
   "title": "DSXP Explorer",
   "server": "https://dapi.swipechain.org/api",
   "alias": "Development",
-  "activeDelegates": 51,
+  "activeDelegates": 100,
   "rewardOffset": 10800,
   "currencies": [],
   "knownWallets": {},
